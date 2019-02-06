@@ -1,0 +1,71 @@
+Practicing Basic Program
+
+Hello World
+What is your name: Hello Chris
+Hello Chris again!
+Hello Chris!!!! 
+
+Finished Practicing Basic Program
+
+
+Practicing Variables
+
+Variable i has the value 120
+Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable b has the value True
+Variable n has the value of None
+ c[0] has the value 10 and is of type: <class 'tuple'>
+ l[0] has the value 10 and is of type: <class 'list'>
+Ouput l[0:2]: [10, 20]
+{1, 4, 6}
+{'Tom': 'A+'}
+
+Finished Practicing Variables
+
+
+Practicing Conditionals
+
+The number x is positive
+
+Finished Practiing Conditionals
+
+
+Practicing Loops
+
+0
+1
+2
+3
+4
+0 - 2
+1 - 3
+2 - 4
+3 - 5
+4 - 6
+5 - 7
+6 - 8
+7 - 9
+
+Finished Practicing Loops
+
+
+Practicing Functions
+
+False
+
+Finished Practicing Functions
+
+
+Practicing Classes
+
+
+Finished Practicing Classes
+
+
+Practicing Modules
+
+10000
+
+Finished Practicing Modules
+
+
